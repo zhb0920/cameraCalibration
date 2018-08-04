@@ -28,3 +28,6 @@ Configured from ProjectItem=cameraCalibration,cameracalibration
 Project Target=cameraCalibration,cameracalibration
 Working Directory=file:///home/zhb/openCV/cameraCalibration/build/
 isExecutable=false
+
+[Project]
+VersionControlSupport=kdevgit
