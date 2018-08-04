@@ -1,0 +1,4 @@
+[Project]
+Name=cameraCalibration
+Manager=KDevCMakeManager
+VersionControl=
